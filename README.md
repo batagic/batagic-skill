@@ -19,6 +19,21 @@ bảng so sánh công cụ, checklist chất lượng.
 
 📄 File: [`skills/ai-slides/SKILL.md`](skills/ai-slides/SKILL.md)
 
+### 🖥️ landing-page — Làm trang đích chuyển đổi cao
+
+Quy trình chuẩn 3 bước để dùng AI tạo landing page tối ưu chuyển đổi:
+
+1. **Hỏi & thu thập bối cảnh** — 8 mục (mục tiêu, sản phẩm, đối tượng, CTA,
+   tông giọng, màu/theme, nội dung, tech output), mỗi câu có gợi ý + "Other".
+2. **Thực hiện** — dựng cấu trúc section chuẩn (Hero → Social proof → Benefits →
+   … → Final CTA) theo nguyên tắc CRO → sinh HTML/React/nội dung.
+3. **Xuất kết quả & báo cáo** — giao file + checklist + gợi ý deploy.
+
+Kèm: cấu trúc 10 section, nguyên tắc tối ưu chuyển đổi, 4 preset theme,
+lựa chọn tech stack, checklist, prompt mẫu.
+
+📄 File: [`skills/landing-page/SKILL.md`](skills/landing-page/SKILL.md)
+
 ## Cách dùng ở agent khác
 
 | Agent | Cách cài |
