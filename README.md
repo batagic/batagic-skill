@@ -34,6 +34,21 @@ lựa chọn tech stack, checklist, prompt mẫu.
 
 📄 File: [`skills/landing-page/SKILL.md`](skills/landing-page/SKILL.md)
 
+### 🧩 prototype — Xây hệ thống prototype nhiều trang (UI/UX)
+
+Quy trình chuẩn 3 bước để dựng prototype nhiều trang có design system nhất quán:
+
+1. **Hỏi & thu thập bối cảnh** — BẮT BUỘC hỏi **user journey + workflow**; tư vấn
+   design system (màu/font/spacing) theo **lĩnh vực**; hỏi website mẫu (URL/ảnh);
+   3 mức quy mô: **Simple (3–5 trang) · Standard (6–10) · Professional (11–20)**.
+2. **Thực hiện** — tạo design tokens chung → shell dùng chung → dựng từng trang
+   theo journey, **liên kết bấm được**.
+3. **Xuất & báo cáo** — giao hệ thống + preview screenshot + checklist.
+
+Kèm: bảng tư vấn design system theo 7 ngành, nguyên tắc UI/UX, checklist, cạm bẫy.
+
+📄 File: [`skills/prototype/SKILL.md`](skills/prototype/SKILL.md)
+
 ## Cách dùng ở agent khác
 
 | Agent | Cách cài |
