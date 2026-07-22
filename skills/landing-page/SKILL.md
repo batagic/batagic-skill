@@ -17,6 +17,26 @@ description: >
 
 ---
 
+## 🚫 QUY TẮC PHONG CÁCH (BẮT BUỘC — đọc trước khi thiết kế)
+
+1. **KHÔNG dùng emoji/icon sáo rỗng kiểu AI hay lạm dụng** — cấm 🚀 ✨ 🎯 💡 🔥 ⚡
+   🎨 ✅ 💪 🌟 ... trong headline, section, benefit, nút. Chúng làm trang trông
+   "do AI sinh ra", rẻ tiền, mất chuyên nghiệp.
+2. **Nếu cần icon → dùng bộ line-icon tinh tế** (Lucide / Heroicons *outline*,
+   Phosphor thin), **đơn sắc**, cùng độ dày nét, kích thước nhất quán. Không emoji màu.
+   Ưu tiên hơn nữa: **không icon** — dùng typography + khoảng trắng để phân cấp.
+3. **Phải có phong cách RIÊNG, nổi bật** — không dùng layout mẫu chung chung.
+   Tạo điểm nhấn bằng: typography mạnh (font weight tương phản), khoảng trắng rộng,
+   1 accent màu duy nhất, chi tiết tinh (đường kẻ mảnh, bo góc chuẩn, shadow tiết chế).
+4. **Ưu tiên tông CLEAN · SANG TRỌNG · LUXURY · CHUYÊN NGHIỆP** (trừ khi ngành/brand
+   yêu cầu khác): nền sạch, nhiều whitespace, palette hạn chế (1 primary + xám +
+   1 accent), font sang (VD Inter/Geist/Satoshi cho hiện đại; serif như Cormorant/
+   Playfair cho luxury), chuyển động micro tinh tế, KHÔNG rối mắt.
+5. **Không stock cliché**: tránh gradient tím-xanh mặc định, blob tròn nhiều màu,
+   emoji trong bullet, nút "Get Started 🚀". Mọi chi tiết phải có chủ đích.
+
+---
+
 ## ⚙️ CÁCH KÍCH HOẠT — Bắt buộc chạy đủ 3 STEP
 
 Khi user gọi `/landing-page` (hoặc nhờ làm trang đích/landing/trang bán hàng),

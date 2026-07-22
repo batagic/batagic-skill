@@ -17,6 +17,27 @@ description: >
 
 ---
 
+## 🚫 QUY TẮC PHONG CÁCH (BẮT BUỘC — áp mọi trang)
+
+1. **KHÔNG dùng emoji/icon sáo rỗng kiểu AI hay lạm dụng** — cấm 🚀 ✨ 🎯 💡 🔥 ⚡
+   🎨 ✅ 💪 🌟 ... trong UI, nav, card, nút, tiêu đề. Làm sản phẩm trông "AI-generated",
+   thiếu chuyên nghiệp.
+2. **Nếu cần icon → dùng bộ line-icon tinh tế** (Lucide / Heroicons *outline*,
+   Phosphor thin), **đơn sắc**, đồng nhất độ dày nét & kích thước. Không emoji màu.
+3. **Phải có phong cách RIÊNG, nổi bật** — không layout template chung chung. Điểm
+   nhấn đến từ: typography có chủ đích, khoảng trắng rộng, 1 accent màu, grid chặt,
+   chi tiết tinh (divider mảnh, bo góc nhất quán, shadow tiết chế).
+4. **Ưu tiên tông CLEAN · SANG TRỌNG · LUXURY · CHUYÊN NGHIỆP** (trừ khi ngành/brand
+   đòi khác — vd trẻ em/giải trí): nền sạch, whitespace rộng, palette hạn chế,
+   font sang, micro-interaction tinh tế, không rối mắt, không thừa màu.
+5. **Không stock cliché**: tránh gradient tím-xanh mặc định, blob nhiều màu, emoji
+   trong list, illustration hoạt hình rẻ tiền. Mọi pixel có chủ đích.
+
+> Quy tắc này **ưu tiên cao hơn** gợi ý màu ở bảng ngành bên dưới khi có xung đột:
+> luôn giữ tinh thần clean/luxury/chuyên nghiệp trừ khi user yêu cầu rõ khác.
+
+---
+
 ## ⚙️ CÁCH KÍCH HOẠT — Bắt buộc chạy đủ 3 STEP
 
 Khi user gọi `/prototype`, agent **PHẢI** thực hiện tuần tự 3 bước.
